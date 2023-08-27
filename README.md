@@ -1,5 +1,5 @@
 
-# Crypto Coin Exchang
+# Crypto Coin Exchange
 
 This project is a bitcoin exchange based on Java Core only | BTC exchange | ETH exchange | digital currency exchange | trading platform.
 
